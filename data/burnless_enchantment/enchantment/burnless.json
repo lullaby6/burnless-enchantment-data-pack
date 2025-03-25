@@ -14,10 +14,7 @@
   },
   "anvil_cost": 0,
   "slots": [
-    "head",
-    "chest",
-    "legs",
-    "feet"
+    "armor"
   ],
   "effects": {
     "minecraft:attributes": [

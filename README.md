@@ -9,7 +9,7 @@
 [![Repo Size](https://img.shields.io/github/repo-size/lullaby6/burnless-enchantment-data-pack?logo=dropbox&color=red)](https://github.com/lullaby6/burnless-enchantment-data-pack)
 [![Stars](https://img.shields.io/github/stars/lullaby6/burnless-enchantment-data-pack?logo=github&color=yellow)](https://github.com/lullaby6/burnless-enchantment-data-pack/stargazers)
 
-`Burnless` is a new enchantment for armor that's reduces your burning time!
+`Burnless` is a new enchantment for armor that's reduces your burning time. Equip your entire armor set with Burnless, and any burning effect will vanish instantly!
 
 The enchantment can be obtained from the enchantment table, loot chests or trading with villagers.
 
@@ -34,7 +34,7 @@ Give:
 Enchant:
 
 ```mcfunction
-/enchant @s burnless_enchantment:burnless 1
+/enchant @s burnless_enchantment:burnless
 ```
 
 Disable:
